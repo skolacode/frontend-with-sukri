@@ -1,0 +1,19 @@
+/* 
+"."=class
+"#"=id
+""=tag
+
+camelCase = bermula dari huruf kecik, dan setiap perkataan lain, start huruf besar
+snake_case = setiap perkataan bermula dengan huruf kecil, perkataan lain di dahului dengan
+"_"
+*/
+
+.fontFamily {
+    font-size: 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  #firstName {
+    color: #ea9e51;
+  }
+
