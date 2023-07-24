@@ -17,3 +17,9 @@ snake_case = setiap perkataan bermula dengan huruf kecil, perkataan lain di dahu
     color: #23dcc9;
   }
 
+#mainContainer {
+  background-color:blueviolet;
+  text-align: center;
+  margin: 15px;
+  border-radius: 10px;
+}
